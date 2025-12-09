@@ -40,13 +40,13 @@ To run this project, install the dependencies listed in `requirements.txt`. The 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/acne-detection-model.git
+   git clone https://github.com/ahmedzain2512005/acne-detection-model.git
    cd acne-detection-model
    
-2. Install the required packages:
+3. Install the required packages:
    pip install -r requirements.txt
    
-3. Add the trained model file:
+4. Add the trained model file:
    Place best.pt inside the project folder (not included in ZIP due to size limit).
 
 ## Usage

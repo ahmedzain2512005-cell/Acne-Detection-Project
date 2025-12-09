@@ -1,4 +1,4 @@
-# Acne-Detection-Project
+# Acne Detection Project
 
 ## Overview
 
@@ -23,8 +23,7 @@ This project is a deep learning-based classification model trained to identify a
 
 The application allows users to upload skin images for analysis, providing fast, reliable, and easy-to-interpret results to assist dermatologists and individuals in making informed decisions about skin health.
 
-**Disclaimer:** 
-This tool is for informational purposes only and is not a substitute for professional medical advice.
+**Disclaimer:** This tool is for informational purposes only and is not a substitute for professional medical advice.
 
 ## Features
 

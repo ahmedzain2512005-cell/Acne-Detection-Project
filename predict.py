@@ -1,6 +1,6 @@
 from ultralytics import YOLO
 import cv2
-
+ 
 # تحميل الموديل YOLO
 model = YOLO("best.pt")
 
@@ -27,4 +27,5 @@ if __name__ == "__main__":
         print("Prediction:", pred)
 
     except Exception as e:
+
         print("خطأ:", e)
